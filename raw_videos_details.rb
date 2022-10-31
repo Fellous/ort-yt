@@ -20,3 +20,12 @@ VIDEOS_FILE = "videos.json"
 
 BEST_IN_DAYS = 90
 TOP_HITS_COUNT = 10
+
+def get_video_details(video_id)
+end
+
+def save_raw_video_details(video_id)
+end
+
+def save_raw_video_details_for_all_channels
+end
