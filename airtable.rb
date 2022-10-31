@@ -18,11 +18,5 @@ CHANNELS_FILE = "channels.json"
 LAST_5_VIDEOS = JSON.parse(File.read("last_5_videos.json"))
 VIDEOS_FILE = "videos.json"
 
-def get_video_details(video_id)
-end
-
-def save_raw_video_details(video_id)
-end
-
-def save_raw_video_details_for_all_channels
+def save_videos_to_airtable
 end
