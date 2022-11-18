@@ -8,13 +8,13 @@
 [
   {
     "name": "Chaîne 1",
-    "url": "https://www.youtube.com/channel/UC1",
-    "id": "UC1"
+    "url": "https://www.youtube.com/c/DADJU",
+    "id": "UC8HMvOLE0etpO_eVjJ98bHA"
   },
   {
     "name": "Chaîne 2",
-    "url": "https://www.youtube.com/channel/UC2",
-    "id": "UC2"
+    "url": "https://www.youtube.com/user/fantabobgames",
+    "id": " "
   }
 ]
 ```
